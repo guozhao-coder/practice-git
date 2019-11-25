@@ -105,3 +105,4 @@ func appendErrorList(errorList []error, err error) []error {
 	}
 	return append(errorList, err)
 }
+//添加了点注释
